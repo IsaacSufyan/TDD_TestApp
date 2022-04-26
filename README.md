@@ -3,7 +3,7 @@
 <h3>What you should already know</h3>
     
     The following core Android Jetpack libraries: ViewModel and LiveData
-    Application architecture, following the pattern from the Guide to app architecture and Android Fundamentals codelabs
+    Application architecture, following the pattern from the Guide to app architecture and Android Fundamentals
 
 <h3>What you'll learn</h3>
 
